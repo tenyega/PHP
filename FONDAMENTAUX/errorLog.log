@@ -1,0 +1,18 @@
+[29-Jul-2024 14:54:34 Europe/Paris] PHP Warning:  A non-numeric value encountered in C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php on line 69
+[29-Jul-2024 14:54:34 Europe/Paris] PHP Stack trace:
+[29-Jul-2024 14:54:34 Europe/Paris] PHP   1. {main}() C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php:0
+[29-Jul-2024 14:57:54 Europe/Paris] PHP Warning:  A non-numeric value encountered in C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php on line 69
+[29-Jul-2024 14:57:54 Europe/Paris] PHP Stack trace:
+[29-Jul-2024 14:57:54 Europe/Paris] PHP   1. {main}() C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php:0
+[29-Jul-2024 14:58:01 Europe/Paris] PHP Warning:  A non-numeric value encountered in C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php on line 69
+[29-Jul-2024 14:58:01 Europe/Paris] PHP Stack trace:
+[29-Jul-2024 14:58:01 Europe/Paris] PHP   1. {main}() C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php:0
+[29-Jul-2024 15:01:57 Europe/Paris] PHP Warning:  A non-numeric value encountered in C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php on line 70
+[29-Jul-2024 15:01:57 Europe/Paris] PHP Stack trace:
+[29-Jul-2024 15:01:57 Europe/Paris] PHP   1. {main}() C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php:0
+[29-Jul-2024 15:03:03 Europe/Paris] PHP Warning:  A non-numeric value encountered in C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php on line 70
+[29-Jul-2024 15:03:03 Europe/Paris] PHP Stack trace:
+[29-Jul-2024 15:03:03 Europe/Paris] PHP   1. {main}() C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php:0
+[29-Jul-2024 15:03:46 Europe/Paris] PHP Warning:  A non-numeric value encountered in C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php on line 70
+[29-Jul-2024 15:03:46 Europe/Paris] PHP Stack trace:
+[29-Jul-2024 15:03:46 Europe/Paris] PHP   1. {main}() C:\YEGA\CDA\MY WORK\PHP\FONDAMENTAUX\dataTypes.php:0
